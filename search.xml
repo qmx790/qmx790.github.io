@@ -9,6 +9,7 @@
 <p>我使用的是hexo和github pages搭建博客<br>使用butterfly主题</p>
 <p>官网在这：<a href="https://butterfly.js.org/">https://butterfly.js.org/</a><br>作者教程写的太详细了<br>但是<br>不推荐按照教程定制<br>（PS：不知道为什么，自己定制的总会报错，报错还没提示）<br>建议去作者的github仓库拷贝一份<br>链接：<a href="https://github.com/jerryc127/butterfly.js.org/blob/main/_config.butterfly.yml">https://github.com/jerryc127/butterfly.js.org/blob/main/_config.butterfly.yml</a></p>
 <p>拷贝完之后，把它放到你博客目录的根文件夹下<br>前提你得通过npm或git等方式下载好了butterfly主题</p>
+<p>完成以上动作后<br>为你后续要搭建在服务器上也方便了很多<br>我这里就不过多赘述了<br>毕竟每个人的情况都不一样<br>（PS：作者就是懒，不想写了）</p>
 <p>就这样吧</p>
 ]]></content>
   </entry>

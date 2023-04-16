@@ -6,7 +6,7 @@
   <link href="https://qmx790.github.io/atom.xml" rel="self"/>
   
   <link href="https://qmx790.github.io/"/>
-  <updated>2023-04-15T12:31:53.809Z</updated>
+  <updated>2023-04-16T00:31:55.687Z</updated>
   <id>https://qmx790.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://qmx790.github.io/posts/introduction/"/>
     <id>https://qmx790.github.io/posts/introduction/</id>
     <published>2023-04-14T16:00:00.000Z</published>
-    <updated>2023-04-15T12:31:53.809Z</updated>
+    <updated>2023-04-16T00:31:55.687Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>咳咳<br>作为一名“只因”术大佬，必须用“只因”术来写个网站</p><p>作者词穷，想不出什么了，凑合着用吧</p><h2 id="搭建"><a href="#搭建" class="headerlink" title="搭建"></a>搭建</h2><p>百度一搜就搜出来了</p><p>我使用的是hexo和github pages搭建博客<br>使用butterfly主题</p><p>官网在这：<a href="https://butterfly.js.org/">https://butterfly.js.org/</a><br>作者教程写的太详细了<br>但是<br>不推荐按照教程定制<br>（PS：不知道为什么，自己定制的总会报错，报错还没提示）<br>建议去作者的github仓库拷贝一份<br>链接：<a href="https://github.com/jerryc127/butterfly.js.org/blob/main/_config.butterfly.yml">https://github.com/jerryc127/butterfly.js.org/blob/main/_config.butterfly.yml</a></p><p>拷贝完之后，把它放到你博客目录的根文件夹下<br>前提你得通过npm或git等方式下载好了butterfly主题</p><p>就这样吧</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>咳咳<br>作为一名“只因”术大佬，必须用“只因”术来写个网站</p><p>作者词穷，想不出什么了，凑合着用吧</p><h2 id="搭建"><a href="#搭建" class="headerlink" title="搭建"></a>搭建</h2><p>百度一搜就搜出来了</p><p>我使用的是hexo和github pages搭建博客<br>使用butterfly主题</p><p>官网在这：<a href="https://butterfly.js.org/">https://butterfly.js.org/</a><br>作者教程写的太详细了<br>但是<br>不推荐按照教程定制<br>（PS：不知道为什么，自己定制的总会报错，报错还没提示）<br>建议去作者的github仓库拷贝一份<br>链接：<a href="https://github.com/jerryc127/butterfly.js.org/blob/main/_config.butterfly.yml">https://github.com/jerryc127/butterfly.js.org/blob/main/_config.butterfly.yml</a></p><p>拷贝完之后，把它放到你博客目录的根文件夹下<br>前提你得通过npm或git等方式下载好了butterfly主题</p><p>完成以上动作后<br>为你后续要搭建在服务器上也方便了很多<br>我这里就不过多赘述了<br>毕竟每个人的情况都不一样<br>（PS：作者就是懒，不想写了）</p><p>就这样吧</p>]]></content>
     
     
       
