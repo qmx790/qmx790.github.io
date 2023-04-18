@@ -6,7 +6,7 @@
   <link href="https://qmx790.github.io/atom.xml" rel="self"/>
   
   <link href="https://qmx790.github.io/"/>
-  <updated>2023-04-16T06:02:55.216Z</updated>
+  <updated>2023-04-18T12:01:03.455Z</updated>
   <id>https://qmx790.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>是时候开源SublimeText了吗？</title>
+    <link href="https://qmx790.github.io/posts/230418/"/>
+    <id>https://qmx790.github.io/posts/230418/</id>
+    <published>2023-04-18T11:38:42.000Z</published>
+    <updated>2023-04-18T12:01:03.455Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="是时候开源SublimeText了吗？"><a href="#是时候开源SublimeText了吗？" class="headerlink" title="是时候开源SublimeText了吗？"></a>是时候开源SublimeText了吗？</h2><p>一名开发者在使用编辑器 Sublime Text 后，发现它被 VS Code 超越主要是因为后者具有开源和免费的性质。因此他觉得 Sublime Text 也应该选择开源，以和 VS Code 进行更好的竞争。<br>图片<br>他认为，VS Code 的开源模式是 VS Code 比 SublimeText 更受欢迎的主要原因。VS Code 的开发得到了社区的贡献，与 Sublime Text 相比，VS Code 有更频繁的更新。不仅如此，开源性质还帮助 VS Code 形成了一个丰富的扩展市场，从这方面来看已经超越了 Sublime Text。正是有了丰富的扩展市场，在安装一些扩展后，开发者可以将 VS Code 从一个简单的文本编辑器转换为一个成熟的 IDE。<br>因此，这名开发者认为开源 SublimeText 是它与 VS Code 竞争的唯一途径。开发者可以获得开源社区的支持，Sublime 团队将能够以比目前更快的速度推送定期更新和新改进。</p><p>他还表示 Sublime Text 开源之后也可以继续采用收费模式。SublimeText 团队可以免费提供 Sublime Text 的核心版本，同时他们可以针对更高要求的用户和开发者销售具有更高级功能的专业版。<br>这也将减轻开发者维护 Sublime Text 核心的压力，得到社区的支持，同时开发团队可以专注于优化和开发文本编辑器的专业功能。<br>最后，他认为在微软的支持下，VS Code 的开发速度很快，SublimeText 难以采用任何其他方式来跟上，除非选择开源。他表示 Sublime Text 是一个非常好的编辑器，并且与基于 Electron 的文本编辑器相比提供了更好的体验。</p><p>原文：<a href="https://ruky.me/2023/03/30/is-it-time-to-open-source-sublimetext/">https://ruky.me/2023/03/30/is-it-time-to-open-source-sublimetext/</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;是时候开源SublimeText了吗？&quot;&gt;&lt;a href=&quot;#是时候开源SublimeText了吗？&quot; class=&quot;headerlink&quot; title=&quot;是时候开源SublimeText了吗？&quot;&gt;&lt;/a&gt;是时候开源SublimeText了吗？&lt;/h2&gt;&lt;p&gt;一名</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>性能最快的代码分析工具，Ruff正在疯狂席卷Python圈</title>
